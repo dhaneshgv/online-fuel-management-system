@@ -1,2 +1,2 @@
-# online-fuel-management-system
-This is a online fuel management system made using React and Firebase
+# Online Fuel Delivery System
+This is a online fuel delivery system made using React and Firebase
